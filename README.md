@@ -122,7 +122,7 @@ We are always open to [your feedback](https://github.com/facebookincubator/creat
 After creation, your project should look like this:
 
 ```
-my-app/
+table/
   README.md
   node_modules/
   package.json
@@ -130,6 +130,7 @@ my-app/
     index.html
     favicon.ico
   src/
+    TableJs.js
     App.css
     App.js
     App.test.js
